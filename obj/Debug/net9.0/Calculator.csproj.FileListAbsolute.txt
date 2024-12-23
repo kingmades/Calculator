@@ -12,3 +12,4 @@ C:\dev\Calculator\obj\Debug\net9.0\refint\Calculator.dll
 C:\dev\Calculator\obj\Debug\net9.0\Calculator.pdb
 C:\dev\Calculator\obj\Debug\net9.0\Calculator.genruntimeconfig.cache
 C:\dev\Calculator\obj\Debug\net9.0\ref\Calculator.dll
+C:\dev\Calculator\obj\Debug\net9.0\Calculator.sourcelink.json
